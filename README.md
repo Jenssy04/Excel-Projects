@@ -129,9 +129,10 @@ For make this questions answered I used a combination of powerful skills as:
      <img width="312" height="41" alt="image" src="https://github.com/user-attachments/assets/ce9d8964-350d-43de-b59c-10d249b5088c" />
 
   4. **Statistic Equation**  
-     I got the increase rate of views on a single title for my KPIs by substracting their highest view obtained with their lowest view obtained and then dividing this result by their lowest view obtained.
+     I got the increase rate of views on a single title for my KPIs by substracting their highest view obtained with their lowest view obtained and then dividing this result by their lowest view obtained.  
 
      <img width="159" height="41" alt="image" src="https://github.com/user-attachments/assets/70960423-30d0-467e-ab5d-c50e4b3cba09" />
+
      *Instead of multiplying the result by 100 for get te percentage, I used % format as it does the job for me.*
 
 ## **KPIs (Key Performance Indicators)**
