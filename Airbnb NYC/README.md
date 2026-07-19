@@ -59,11 +59,11 @@ For be able to complete the previous criterias, I used simple tools as:
      Used this function for don't sum certain columns on my data room and make them atomic.  
     
 ## Conclusion
-In this second project I couldn't find a challenge that makes me use a lot of different tools on excel but I've learned something really important. Not all datasets are that complicated the requires to use advanced tools, sometimes with the simple ones are more than enough and the other thing is that I didn't have to export my project replacing the original file, as you can see I couldn't put different visualizations on how I did this project but one, the only screenshot that I save, as this mistake made me lose all the data from the file.
+In this second project I couldn't find a challenge that makes me use a lot of different tools on excel but I've learned something really important. Not all datasets are that complicated the requires to use advanced tools, sometimes with the simple ones are more than enough, and the other thing is that I didn't have to export my project replacing the original file, as you can see I couldn't put different visualizations on how I did this project but one, the only screenshot that I save, as this mistake of saving the file as **.CSV** and not on **.XLSX**, it made me lose all the data from the file.
 
-And at the start of this project I realized that the most important thing about being a Data Analyst, is that would be better if I investigate first the topic if I'm not educated on it, because knowing what means on the back of every attribute, it can make you create better decisions, questions and answers for the project, being able to have a wide perspective and go through it.
+And at the start of this project I realized that the most important thing about being a **Data Analyst**, is that would be better if you investigate first the topic if you aren't educated on it, because knowing what means on the back of every attribute, it can make you create better decisions, questions and answers for the project, being able to have a wide perspective and go through it.
 
-Anyways, I hope that the information showed here could help to see the relation on rooms booked and their variables in NYC.
+Anyways, I hope that the information showed here could help to see the relation on rooms booked and their variables in **NYC**.
   
 
      
