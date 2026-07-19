@@ -2,7 +2,7 @@
 <img width="1920" height="1080" alt="cff81a73-edfb-4eea-a829-dd8d0b7961c9" src="https://github.com/user-attachments/assets/dc7b1cf3-2dbb-45cd-976d-065da4f94b3b" />
 
 ## Introduction
-In this second project, I've been through on rooms booked by clients on New York City and what relation I could find on them.
+In this second project, I've been analyzing on rooms booked by clients on New York City and what relation I could find on them.
 
 ## Dashboard File:
 ~~Missed~~
@@ -10,7 +10,7 @@ In this second project, I've been through on rooms booked by clients on New York
 ## What questions did I answered?
 I've been following these criterias on this project:  
 
-**1. _The hoster with the most booked room_**
+**1. _The host with the most booked room_**
 
 **2. _The most booked room_**
      
@@ -18,14 +18,12 @@ I've been following these criterias on this project:
      
 **4. _The Location most preferred by clients_**
 
-**5. _The Location most preferred by clients_**
+**5. _Average of nights booked per room_**
 
-**6. _Average of nights booked per room_**
-
-**7. _The least availability room in the year_**
+**6. _The least availability room in the year_**
 
 ## What skills did I used for get these questions answered?
-For be able to complete the previous criterias, I used simple tools as:
+For be able to answer the previous criterias, I used simple tools as:
 - **_Powerquery (ETL)_**
 - **_PivotTable_**
 - _**PivotChart**_
@@ -35,7 +33,7 @@ For be able to complete the previous criterias, I used simple tools as:
 
 **1. Power Query**
   - **Extract & Transform**  
-    Not did too much on this dataset, as it cames with the data really clean, I just limited myself to extract it and see if it's has every value coherent to each other, to make every columnn adequate to their datatype and deleted some errors as well.
+    I didn't need to do much on this dataset, as it cames with the data really clean, I just limited myself to extract it and see if it's has every value coherent to each other, to make every columnn adequate to their datatype and deleted some errors as well.
     
   - **Load**  
     After that I validated the coherence in the data, I just load it up.  
