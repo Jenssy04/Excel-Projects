@@ -37,7 +37,7 @@ For be able to complete the previous criterias, I used simple tools as:
   - **Extract & Transform**  
     Not did too much on this dataset, as it cames with the data really clean, I just limited myself to extract it and see if it's has every value coherent to each other, to make every columnn adequate to their datatype and deleted some errors as well.
     
-  - **Load**
+  - **Load**  
     After that I validated the coherence in the data, I just load it up.  
 
 **2. PivotTable**  
@@ -59,7 +59,7 @@ For be able to complete the previous criterias, I used simple tools as:
      Used this function for don't sum certain columns on my data room and make them atomic.  
     
 ## Conclusion
-In this second project I couldn't find a challenge that makes me use a lot of different tools on excel but I've learned something really important. Not all dataset are that complicated the requires to use advanced tools, sometimes with the simple ones are more than enough and other thing is that I hadn't export my project replacing the original file, as you can see I didn't put different visualizations on how I did this project but one, as this mistake made me lose all the data from the file.
+In this second project I couldn't find a challenge that makes me use a lot of different tools on excel but I've learned something really important. Not all datasets are that complicated the requires to use advanced tools, sometimes with the simple ones are more than enough and the other thing is that I didn't have to export my project replacing the original file, as you can see I couldn't put different visualizations on how I did this project but one the only screenshot that I save, as this mistake made me lose all the data from the file.
 
 Anyways, I hope that the information showed here could help to see the relation on rooms booked and their variables in NYC.
   
